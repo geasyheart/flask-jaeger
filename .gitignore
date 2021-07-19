@@ -1,0 +1,9 @@
+.idea/
+venv/
+templates/*
+__pycache__/
+*.pyc
+*.py[cod]
+db.sqlite3
+.*.xlsx#
+config_data_preset.json
